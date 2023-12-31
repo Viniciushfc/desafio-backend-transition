@@ -60,7 +60,7 @@ Caso não tenha atingido aceitavelmente o que estamos propondo acima, não iremo
 # End Points
 Utilizando um API Client (exemplo imsomnia ou postman)
 
-GET "/users" para listar os usuários criados.
-POST "/users" para criar os usuários lembrando das condições citadas no desafio.
-POST "/transactions" para criar uma Transferência de dinheiro.
+- GET "/users" para listar os usuários criados.
+- POST "/users" para criar os usuários lembrando das condições citadas no desafio.
+- POST "/transactions" para criar uma Transferência de dinheiro.
 
