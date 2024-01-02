@@ -1,6 +1,17 @@
 # Desafio Back-end PicPay 
+
 (Resolvido apenas para fins didático)
 
+## Tecnologias utilizadas
+
+- Framework Spring Boot Version 3.2.1
+- Dependências:
+- Spring Web;
+- Spring Data JPA
+- Spring DevTools
+- H2 Database
+- Lombok
+  
 ## Objetivo: PicPay Simplificado
 
 Temos 2 tipos de usuários, os comuns e lojistas, ambos têm carteira com dinheiro e realizam transferências entre eles. Vamos nos atentar **somente** ao fluxo de transferência entre dois usuários.
